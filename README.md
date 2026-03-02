@@ -3,7 +3,7 @@
 This repository contains a comprehensive **125-page Research Project Logbook** and a collection of **5 core Data Science projects** developed using R. This work was completed as part of the *Advanced Professional Data Analytics* course.
 
 ## 👨‍🏫 Supervision & Institution
-- **Supervisor:** [Dr. Karim Mohammed Rezaul](https://scholar.google.com/citations?user=your_prof_link) (University of Westminster, UK).
+- **Supervisor:** [Dr. Karim Mohammed Rezaul](https://www.researchgate.net/profile/Karim-Rezaul) (https://www.linkedin.com/in/dr-karim-mohammed-rezaul-863154119/) (University of Westminster, UK).
 - **Institution:** CARSIT, Brit College of Engineering & Technology (BCET).
 - **Date of Submission:** February 28, 2026.
 
