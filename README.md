@@ -3,7 +3,8 @@
 This repository contains a comprehensive **125-page Research Project Logbook** and a collection of **5 core Data Science projects** developed using R. This work was completed as part of the *Advanced Professional Data Analytics* course.
 
 ## 👨‍🏫 Supervision & Institution
-- **Supervisor:** [Dr. Karim Mohammed Rezaul](https://www.researchgate.net/profile/Karim-Rezaul) (https://www.linkedin.com/in/dr-karim-mohammed-rezaul-863154119/) (University of Westminster, UK).
+- **Supervisor:** [Dr. Karim Mohammed Rezaul](https://www.researchgate.net/profile/Karim-Rezaul)
+(https://www.linkedin.com/in/dr-karim-mohammed-rezaul-863154119/) (University of Westminster, UK).
 - **Institution:** CARSIT, Brit College of Engineering & Technology (BCET).
 - **Date of Submission:** February 28, 2026.
 
@@ -18,7 +19,8 @@ This portfolio demonstrates a transition from exploratory data analysis to high-
 | **04** | **Classification Logic** | Implementing Binary Decision Logic for structured sorting. |
 | **05** | **Advanced AI & Ensembles** | **Fraud Detection** using **ANN (Neural Networks)** and **GBM (Gradient Boosting).** |
 
-Datsets : You will find the links to the data sets in the logbook.
+Datsets : You will find all the links to the data sets inside the [R-Programming_LOGBOOK_ABID_HOSSAIN.pdf](https://github.com/Abid-Hossain29130/Advanced-ML-Research-Logbook-R/blob/main/R-Programming_LOGBOOK_ABID_HOSSAIN.pdf) 
+         or, inside there respective folders.
 
 ## 🌟 Technical Pinnacle: Project 05
 The highlight of this research is the implementation of a **Hybrid Ensemble System** to solve the **Credit Card Fraud Detection** problem. 
