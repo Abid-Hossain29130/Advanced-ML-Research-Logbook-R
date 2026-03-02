@@ -18,6 +18,8 @@ This portfolio demonstrates a transition from exploratory data analysis to high-
 | **04** | **Classification Logic** | Implementing Binary Decision Logic for structured sorting. |
 | **05** | **Advanced AI & Ensembles** | **Fraud Detection** using **ANN (Neural Networks)** and **GBM (Gradient Boosting).** |
 
+Datsets : You will find the links to the data sets in the logbook.
+
 ## 🌟 Technical Pinnacle: Project 05
 The highlight of this research is the implementation of a **Hybrid Ensemble System** to solve the **Credit Card Fraud Detection** problem. 
 - **Challenge:** Handling highly imbalanced financial datasets.
